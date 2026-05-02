@@ -239,8 +239,6 @@ def main():
                     st.error(f"Error details: {str(e)}")
 
 
-Balapavan
- 
 if __name__ == "__main__":
     main()
  
