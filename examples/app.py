@@ -237,6 +237,9 @@ def main():
                     response_placeholder.error(error_message)
                     st.session_state.messages.append({"role": "assistant", "content": error_message})
                     st.error(f"Error details: {str(e)}")
+
+
+Balapavan
  
 if __name__ == "__main__":
     main()
